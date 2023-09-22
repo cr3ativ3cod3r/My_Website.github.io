@@ -1,4 +1,4 @@
-baseURL = 'https://cr3ativ3cod3r/My_Website.github.io.git'
+baseURL = 'https://cr3ativ3cod3r.github.io./My_Website.github.io/'
 languageCode = 'en-us'
 title = 'Lessgo Hugo'
 theme='Niello'
